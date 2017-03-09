@@ -1,0 +1,19 @@
+{
+  "name": "typings-arcgis-js-api",
+  "version": "4.3.0",
+  "description": "Type defination of arcgis-js-api",
+  "main": "arcgis-js-api.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beginor/typings-arcgis-js-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beginor/typings-arcgis-js-api/issues"
+  },
+  "homepage": "https://github.com/beginor/typings-arcgis-js-api#readme"
+}
