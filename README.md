@@ -6,10 +6,10 @@ from [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources/tree/master/
 
 # TypeScript
 
-The [arcgis-js-api.d.ts](arcgis-js-api.d.ts) file provides type definitions for ArcGIS API for JavaScript.
+The [index.d.ts](index.d.ts) file provides type definitions for ArcGIS API for JavaScript.
 
 A copy of this file is also available at [DefinitelyTyped][1] and may be installed using the command:  
-`npm install --save @types/arcgis-js-api`
+`npm install --save github:beginor/typings-arcgis-js-api`
 
 ## Requirements
 
