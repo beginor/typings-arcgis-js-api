@@ -1,0 +1,3 @@
+[submodule "esri-jsapi-resources"]
+	path = esri-jsapi-resources
+	url = https://github.com/beginor/esri-jsapi-resources.git
