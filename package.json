@@ -1,6 +1,6 @@
 {
   "name": "typings-arcgis-js-api",
-  "version": "4.3.1",
+  "version": "4.3.2",
   "description": "Type defination of arcgis-js-api",
   "main": "index.d.ts",
   "scripts": {
